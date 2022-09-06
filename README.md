@@ -9,6 +9,7 @@ pip install git+https://github.com/florentinl/kubin
 ```
 
 And then used by creating a new Rubik's Cube and manipulating it using algorithms written in the standard notation format
+
 ```python
 from Kubin.Model.Cube import Cube
 from Kubin.Model.AlgHandler import applyAlgorithm
